@@ -1,5 +1,5 @@
 def transform(f):
-    result = (float(f)-32)*5/9
+    result = (float(f) - 32) * 5 / 9
     
     return result
 
