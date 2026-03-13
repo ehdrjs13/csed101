@@ -1,4 +1,4 @@
-def transform(f):
+def transform(f) -> float:
     result = (float(f) - 32) * 5 / 9
     
     return result
