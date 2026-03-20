@@ -1,7 +1,6 @@
 def maxValue(a,b,c) -> int:
     if a > b and a > c: 
-        if a > c: 
-            return a    
+        return a
     elif b > c:
         return b
     else:
